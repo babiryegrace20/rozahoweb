@@ -43,9 +43,9 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Instagram</h2>
               <div class="thumb d-sm-flex">
-	            	<a href="#" class="thumb-menu img" style="background-image: url(images/roz15.jpg);">
+	            	<a href="#" class="thumb-menu img" style="background-image: url(images/roz30.jpg);">
 	            	</a>
-	            	<a href="#" class="thumb-menu img" style="background-image: url(images/roz11.jpg);">
+	            	<a href="#" class="thumb-menu img" style="background-image: url(images/roz26.jpg);">
 	            	</a>
 	            	<a href="#" class="thumb-menu img" style="background-image: url(images/roz10.jpg);">
 	            	</a>
@@ -55,7 +55,7 @@
 	            	</a>
 	            	<a href="#" class="thumb-menu img" style="background-image: url(images/roz13.jpg);">
 	            	</a>
-	            	<a href="#" class="thumb-menu img" style="background-image: url(images/roz14.jpg);">
+	            	<a href="#" class="thumb-menu img" style="background-image: url(images/roz51.jpg);">
 	            	</a>
 	            </div>
             </div>
